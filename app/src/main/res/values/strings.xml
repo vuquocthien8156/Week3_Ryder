@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week3_Ryder</string>
+    <string name="facebook_app_id">1031611377038801</string>
+    <string name="fb_login_protocol_scheme">fb1031611377038801</string>
+</resources>
