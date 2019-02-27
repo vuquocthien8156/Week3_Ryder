@@ -4,7 +4,14 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
 
+apply plugin: 'kotlin-kapt'
+
+androidExtensions {
+    experimental = true
+}
+
 android {
+    dataBinding.enabled = true
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.example.qthien.week3_ryder"
@@ -35,4 +42,19 @@ dependencies {
 
     implementation 'com.facebook.stetho:stetho:1.5.0'
     implementation 'com.facebook.stetho:stetho-okhttp3:1.5.0'
+    implementation 'com.google.code.gson:gson:2.8.5'
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
+
+    implementation 'com.github.bumptech.glide:glide:4.9.0'
+    kapt 'com.github.bumptech.glide:compiler:4.9.0'
+    implementation 'jp.wasabeef:glide-transformations:4.0.0'
+    implementation 'com.android.support:design:28.0.0'
+
+    implementation 'com.chootdev:timezago:1.1.8'
+
+    implementation 'com.facebook.android:facebook-share:[4,5)'
+
+    implementation 'com.android.support:customtabs:25.2.0'
+
+    implementation 'com.r0adkll:slidableactivity:2.0.6'
 }

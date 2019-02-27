@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+            android:paddingTop="0dp">
+
+    <ImageView
+            android:id="@+id/imgAvata"
+            android:layout_width="68dp"
+            android:layout_height="68dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginBottom="5dp"/>
+    <TextView
+            android:id="@+id/txtName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_toEndOf="@id/imgAvata"
+            android:text="aaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+            android:layout_toStartOf="@id/btnX"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="2dp"/>
+    <ImageButton
+            android:id="@+id/btnX"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/ic_remove"
+            android:background="@null"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="15dp"
+            android:scaleType="fitCenter"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"/>
+
+    <FrameLayout
+            android:id="@+id/frm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imgAvata"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+    >
+        <TextView
+                android:id="@+id/txtSelectImg"
+                android:focusable="true"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:text="Chọn một ảnh"
+                android:background="#bfbfbf"
+                android:textColor="#FFF"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:gravity="center"/>
+        <ImageView
+                android:id="@+id/imgSelected"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitCenter" />
+
+    </FrameLayout>
+
+    <Button android:id="@+id/btnPost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Đăng"
+            android:layout_below="@id/frm"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="15dp"
+            android:layout_alignParentEnd="true"/>
+</RelativeLayout>
