@@ -45,7 +45,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://i.imgur.com/4i99KiW.gif" target="_blank"> <img src="https://i.imgur.com/4i99KiW.gif" title="GIF_1" /> </a>
+<a href="https://i.imgur.com/4i99KiW.gifv" target="_blank"> <img src="https://i.imgur.com/4i99KiW.gif" title="GIF_1" /> </a>
 <a href="https://i.imgur.com/S90Oz3B.gif" target="_blank"> <img src="https://i.imgur.com/S90Oz3B.gif" title="GIF_2" /> </a>
 <a href="https://i.imgur.com/eVvPZME.gif" target="_blank"> <img src="https://i.imgur.com/eVvPZME.gif" title="GIF_3" /> </a>
 <a href="https://i.imgur.com/axPPMIF.gif" target="_blank"> <img src="https://i.imgur.com/axPPMIF.gif" title="GIF_4" /> </a>
