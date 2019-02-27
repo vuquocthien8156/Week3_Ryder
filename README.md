@@ -45,13 +45,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://i.imgur.com/4i99KiW.gifv" target="_blank"> <img src="https://i.imgur.com/4i99KiW.gif" title="GIF_1" /> </a>
-<a href="https://i.imgur.com/S90Oz3B.gifv" target="_blank"> <img src="https://i.imgur.com/S90Oz3B.gif" title="GIF_2" /> </a>
-<a href="https://i.imgur.com/eVvPZME.gifv" target="_blank"> <img src="https://i.imgur.com/eVvPZME.gif" title="GIF_3" /> </a>
-<iframe class="imgur-embed" width="100%" height="817" frameborder="0" src="https://i.imgur.com/CkL0Q6Q.gifv#embed"></iframe>
-<a href="https://i.imgur.com/axPPMIF.gifv" target="_blank"> <img src="https://i.imgur.com/axPPMIF.gif" title="GIF_5" /> </a>
-<a href="https://i.imgur.com/FISMbHc.gifv" target="_blank"> <img src="https://i.imgur.com/FISMbHc.gif" title="GIF_6" /> </a>
-<a href="https://i.imgur.com/JZYnBGI.gifv" target="_blank"> <img src="https://i.imgur.com/JZYnBGI.gif" title="GIF_7" /> </a>
+<a href="https://i.imgur.com/4i99KiW.gifv"> <img src="https://i.imgur.com/4i99KiW.gif" title="GIF_1" /> </a>
+<a href="https://i.imgur.com/S90Oz3B.gifv"> <img src="https://i.imgur.com/S90Oz3B.gif" title="GIF_2" /> </a>
+<a href="https://i.imgur.com/eVvPZME.gifv"> <img src="https://i.imgur.com/eVvPZME.gif" title="GIF_3" /> </a>
+<a href="https://i.imgur.com/CkL0Q6Q.gifv"> <img src="https://i.imgur.com/CkL0Q6Q.gif" title="GIF_4" /> </a>
+<a href="https://i.imgur.com/axPPMIF.gifv"> <img src="https://i.imgur.com/axPPMIF.gif" title="GIF_5" /> </a>
+<a href="https://i.imgur.com/FISMbHc.gifv"> <img src="https://i.imgur.com/FISMbHc.gif" title="GIF_6" /> </a>
+<a href="https://i.imgur.com/JZYnBGI.gifv"> <img src="https://i.imgur.com/JZYnBGI.gif" title="GIF_7" /> </a>
 
 GIF created with [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&hl=en).
 
