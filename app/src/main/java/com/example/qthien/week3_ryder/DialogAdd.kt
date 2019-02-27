@@ -63,11 +63,11 @@ class DialogAdd : DialogFragment(){
 //        FacebookSdk.sdkInitialize(getActivity());
 
         user = arguments?.get("from") as From
-        GlideApp.with(context!!).load(user?.picture?.data?.url).apply(RequestOptions.bitmapTransform(
+        GlideApp.with(context!!).load(user.picture?.data?.url).apply(RequestOptions.bitmapTransform(
             RoundedCornersTransformation(20 , 0)
         )).into(imgAvata)
 
-        txtName.text = user?.name
+        txtName.text = user.name
 
         btnX.setOnClickListener({
             dismiss()

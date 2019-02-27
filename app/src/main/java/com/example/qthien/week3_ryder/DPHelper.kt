@@ -189,8 +189,8 @@ class DPHelper(context: Context) {
     }
 
     fun clearData(){
-        db?.execSQL("delete from "+ "DataAttachments")
-        db?.execSQL("delete from "+ "Datum")
-        db?.execSQL("delete from "+ "Fromm")
+        db?.delete("DataAttachments" , null , null)
+        db?.delete("Datum" , null , null)
+        db?.delete("Fromm" , null , null)
     }
 }

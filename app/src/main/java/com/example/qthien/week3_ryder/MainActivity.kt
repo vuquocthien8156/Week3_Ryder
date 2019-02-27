@@ -218,7 +218,7 @@ class MainActivity : AppCompatActivity() {
         val dialog = DialogAdd()
 
         val bundle = Bundle()
-        bundle.putParcelable("From" , result.data.get(0).from)
+        bundle.putParcelable("from" , result.data.get(0).from)
         dialog.arguments = bundle
 
         dialog.show(tran , "dialog")
